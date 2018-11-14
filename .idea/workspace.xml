@@ -2,7 +2,154 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bff1bfd-cc0b-46fd-9e7a-654fddde4334" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/commonjs01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/commonjs02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/commonjs03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/commonjs04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/02commonjs/tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/03 npm 第三方模块和package.json/01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/04 fs文件系统模块/01fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/04 fs文件系统模块/02fs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/04 fs文件系统模块/03fs.createReadStream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/04 fs文件系统模块/04fs.createWriteStream.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/04 fs文件系统模块/05读取写入管道流pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile_bac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/Ngrade_login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/centerRight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/comQ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/dmb.bottom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/dmb.header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/t.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/zhanshi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/css/zz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/all/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/be/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/bg/courseBg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/bg/dot_del.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/bg/follow_label.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/image/fe/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/jq/comQ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/jq/jquery-1.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/jq/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/jq/underscore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/Ngrade_login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/dj_goto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/dj_hot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/dj_label.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/dj_leifeng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/headerPart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/jt_comQ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/mainPart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/zhanshi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/js/zz_myAjax0.2.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/android.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/angularjs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/bootstrap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/c3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/cjiajia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/cocos2d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/csharp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/dashuju.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/fetools.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/go.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/h5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/hc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/hot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/ios.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/javaee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/jq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/js.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/label.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/leifeng.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/linux.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/maya.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/mobile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/mongodb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/mysql.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/nodejs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/oracle.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/photo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/photoshop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/php.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/promiere.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/python.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/sql.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/unity3d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/userMsg.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/webapp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/weda.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/yunjisuan.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/json/zhanshi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/node-learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/node-learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,20 +162,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="3" selection-start-column="3" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>json</find>
+      <find>var</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>const</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +187,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/test1/http模块.js" />
+        <option value="$PROJECT_DIR$/test1/01http模块.js" />
+        <option value="$PROJECT_DIR$/test1/02url模块.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/commonjs01.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/config.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/tools.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/commonjs02.js" />
+        <option value="$PROJECT_DIR$/test1/node_modules/foo.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/commonjs03.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/node_modules/nav/nav.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/node_modules/foo.js" />
+        <option value="$PROJECT_DIR$/test1/commonjs/commonjs04.js" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/test1/03 npm 第三方模块和package.json/01.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/fs 01.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/html/index.html" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/fs01.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/fs02.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/t1.txt" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/03fs.createReadStream.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/t.txt" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/04fs.createWriteStream.js" />
+        <option value="$PROJECT_DIR$/test1/04 fs文件系统模块/05读取写入管道流pipe.js" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services1.js" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile_bac.js" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services2.js" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/index.html" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services3.js" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/readme.md" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js" />
+        <option value="$PROJECT_DIR$/test1/readme.md" />
+        <option value="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services5.js" />
+        <option value="$PROJECT_DIR$/test1/06nodejs回调和事件驱动/01非阻塞io.js" />
+        <option value="$PROJECT_DIR$/test1/06nodejs回调和事件驱动/03nodejs事件驱动01.js" />
+        <option value="$PROJECT_DIR$/test1/06nodejs回调和事件驱动/04nodejs 事件驱动获取数据.js" />
+        <option value="$PROJECT_DIR$/test1/06nodejs回调和事件驱动/model/getmimefromfile_events.js" />
+        <option value="$PROJECT_DIR$/test1/06nodejs回调和事件驱动/00services5.js" />
       </list>
     </option>
   </component>
@@ -53,10 +240,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="353" />
-    <option name="y" value="59" />
-    <option name="width" value="1544" />
-    <option name="height" value="953" />
+    <option name="x" value="345" />
+    <option name="y" value="73" />
+    <option name="width" value="1226" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -70,6 +257,11 @@
               <item name="node-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="node-learn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="node-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -78,6 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
@@ -87,7 +280,20 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1" />
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1\04 fs文件系统模块" />
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1\commonjs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1\05nodejs静态web服务（demo）" />
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1\05nodejs静态web服务（demo）\model" />
+      <recent name="D:\webpackrpoj\agitwork\node-learn\test1\commonjs\node_modules" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,6 +307,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.00services5.js (1)">
+    <configuration name="00services5.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="00services5.js" working-dir="$PROJECT_DIR$/test1/06nodejs回调和事件驱动" />
+    <configuration name="00services5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="00services5.js" working-dir="$PROJECT_DIR$/test1/05nodejs静态web服务（demo）" />
+    <configuration name="01非阻塞io.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="01非阻塞io.js" working-dir="$PROJECT_DIR$/test1/06nodejs回调和事件驱动" />
+    <configuration name="03nodejs事件驱动01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03nodejs事件驱动01.js" working-dir="$PROJECT_DIR$/test1/06nodejs回调和事件驱动" />
+    <configuration name="04nodejs 事件驱动获取数据.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="04nodejs 事件驱动获取数据.js" working-dir="$PROJECT_DIR$/test1/06nodejs回调和事件驱动" />
+    <list>
+      <item itemvalue="Node.js.00services5.js" />
+      <item itemvalue="Node.js.01非阻塞io.js" />
+      <item itemvalue="Node.js.03nodejs事件驱动01.js" />
+      <item itemvalue="Node.js.04nodejs 事件驱动获取数据.js" />
+      <item itemvalue="Node.js.00services5.js (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.00services5.js (1)" />
+        <item itemvalue="Node.js.04nodejs 事件驱动获取数据.js" />
+        <item itemvalue="Node.js.03nodejs事件驱动01.js" />
+        <item itemvalue="Node.js.01非阻塞io.js" />
+        <item itemvalue="Node.js.00services5.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -111,34 +340,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542088707595</updated>
-      <workItem from="1542088708773" duration="19000" />
+      <workItem from="1542088708773" duration="8566000" />
+      <workItem from="1542097430555" duration="5936000" />
+      <workItem from="1542160000803" duration="9011000" />
+      <workItem from="1542175077668" duration="970000" />
+      <workItem from="1542176119196" duration="46000" />
+      <workItem from="1542176785372" duration="98000" />
+      <workItem from="1542178364722" duration="8071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19000" />
+    <option name="totallyTimeSpent" value="32698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="59" width="1544" height="953" extended-state="0" />
-    <editor active="true" />
+    <frame x="345" y="73" width="1226" height="947" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17438017" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22503008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,11 +382,339 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/02fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/01fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/01http模块.js" />
+    <entry file="file://$PROJECT_DIR$/test1/02url模块.js" />
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/node_modules/foo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/node_modules/nav/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/node_modules/nav/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/commonjs04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/commonjs01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="66" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/commonjs02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/02commonjs/commonjs03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/03 npm 第三方模块和package.json/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/03 npm 第三方模块和package.json/01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/html/index.html" />
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/01fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/02fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/03fs.createReadStream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/04fs.createWriteStream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/05读取写入管道流pipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/04 fs文件系统模块/t.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/mime.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="482" column="27" lean-forward="true" selection-start-line="482" selection-start-column="11" selection-end-line="482" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="40" column="86" selection-start-line="40" selection-start-column="86" selection-end-line="40" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521">
+          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile_bac.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/00services5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/05nodejs静态web服务（demo）/model/getmimefromfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/jyx百度资料/06 nodejs回调和事件驱动/03nodejs事件驱动01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/01非阻塞io.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/03nodejs事件驱动01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/model/getmimefromfile.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/00services6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/02回调函数.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/04nodejs 事件驱动获取数据.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="453">
+            <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/00services5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/06nodejs回调和事件驱动/model/getmimefromfile_events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
